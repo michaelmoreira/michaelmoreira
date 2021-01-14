@@ -14,7 +14,7 @@ Opa, meu nome é Michael, atualmente sou pago para resolver problemas utilizando
     <img src="https://img.shields.io/twitter/follow/_michaelmoreira?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/moreiramelo/">
-    <img src="https://img.shields.io/linkedin/follow/moreiramelo?label=Linkedin&logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </p>
 <!--
