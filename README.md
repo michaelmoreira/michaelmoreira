@@ -1,4 +1,4 @@
-### Michael Moreira 👋
+### Michael Moreira 
 Oops, my name is Michael, I am currently paid to solve problems using Linux, containers, automation and a lot, but a lot of DevOps.
 
 - :rocket: I currently work as a DevOps Engineer on @Sicoob
