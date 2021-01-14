@@ -8,10 +8,13 @@ Opa, meu nome é Michael, atualmente sou pago para resolver problemas utilizando
 
 <p align="center">
   <a href="https://github.com/michaelmoreira?tab=followers">
-    <img src="https://img.shields.io/github/followers/michaelmoreira?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/michaelmoreira?label=Github&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/_michaelmoreira">
     <img src="https://img.shields.io/twitter/follow/_michaelmoreira?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/moreiramelo/">
+    <img src="https://img.shields.io/linkedin/follow/moreiramelo?label=Linkedin&logo=linkedin&style=for-the-badge" />
   </a>
   </p>
 <!--
