@@ -1,7 +1,7 @@
 ### Michael Moreira 
 Oops, my name is Michael, I am currently paid to solve problems using Linux, containers, automation and a lot, but a lot of DevOps.
 
-- :rocket: I currently work as a DevOps Engineer on @Sicoob
+- :rocket: I currently work as a DevOps Engineer on @NOS
 
 - :tv: I am a DevOps culture enthusiast and work as a DevOps engineer specializing in container orchestration environments and cloud infrastructure. I have over 9 years of substantial IT experience and work on DevOps projects with CI / CD, Infra as code, Configuration management, managed by agile methodologies (Scrum and Kanban).
 
