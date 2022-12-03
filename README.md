@@ -24,7 +24,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="terraform" height="30" width="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
