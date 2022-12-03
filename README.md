@@ -27,7 +27,7 @@
   <img align="center" alt="terraform" height="30" width="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-  <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
+  <img align="center" alt="anisble" height="30" width="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">
   <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg">
