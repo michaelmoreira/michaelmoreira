@@ -20,7 +20,7 @@
   <img align="center" alt="anisble" height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg">
+  <img align="center" alt="anisble" height="30" width="30" src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
