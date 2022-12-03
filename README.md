@@ -1,33 +1,36 @@
-### Michael Moreira 
-Oops, my name is Michael, I am currently paid to solve problems using Linux, containers, automation and a lot, but a lot of DevOps.
+### Hi there i am Michael Moreira 👋
 
-- :rocket: I currently work as a DevOps Engineer on @NOS
+- I currently work as DevOps Engineer
+  
+- with 12+ years of experience, designing and implementing finacial mission-critical solutions
+  
+- Extensive experience in Linux and open source software
+  
+- Working with DevOps culture, terraform, ansible, kubernetes, AWS and python
+  
+- Interested in cloud technologies, IAC and open source projects
+  
+  <div>
+  <a href="https://github.com/michaelmoreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelmoreira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelmoreira&layout=compact&langs_count=7&theme=light"/>
+  </div>
+  <div style="background-color:red;" style="display: inline_block" color="white"><br>
+  <img align="center" alt="Aws" height="30" width="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="terraform" height="30" width="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
+  <img align="center" alt="anisble" height="30" width="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
+  </div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.instagram.com/_michaelmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/moreiramelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 
-- :tv: I am a DevOps culture enthusiast and work as a DevOps engineer specializing in container orchestration environments and cloud infrastructure. I have over 9 years of substantial IT experience and work on DevOps projects with CI / CD, Infra as code, Configuration management, managed by agile methodologies (Scrum and Kanban).
-
-
-<p align="center">
-  <a href="https://github.com/michaelmoreira?tab=followers">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/_michaelmoreira">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/moreiramelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  </p>
-<!--
-**michaelmoreira/michaelmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
