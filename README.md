@@ -2,7 +2,7 @@
 
 - I currently work as DevOps Engineer
   
-- with 12+ years of experience, designing and implementing finacial mission-critical solutions
+- With 12+ years of experience, designing and implementing finacial mission-critical solutions
   
 - Extensive experience in Linux and open source software
   
