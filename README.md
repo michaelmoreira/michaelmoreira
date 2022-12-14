@@ -1,4 +1,4 @@
-### Hi there i am Michael Moreira 👋
+### Hello, I'm Michael Moreira 👋
 
 - I currently work as DevOps Engineer
   
